@@ -1,0 +1,16 @@
+{
+  "name": "panda-cursor-rules",
+  "owner": {
+    "name": "panda"
+  },
+  "metadata": {
+    "description": "Personal Cursor rules marketplace"
+  },
+  "plugins": [
+    {
+      "name": "module-workflow",
+      "source": "module-workflow",
+      "description": "Module + interface.yaml 开发流程与文档规则"
+    }
+  ]
+}

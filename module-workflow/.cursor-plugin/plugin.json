@@ -1,0 +1,9 @@
+{
+  "name": "module-workflow",
+  "description": "Module + interface.yaml 开发流程与文档规则",
+  "version": "1.0.0",
+  "author": {
+    "name": "panda"
+  },
+  "keywords": ["module", "interface.yaml", "docs"]
+}
